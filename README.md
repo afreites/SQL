@@ -8,8 +8,6 @@ Completed
 Include logo/demo screenshot etc.
 
 ## Tech/framework used
-Ex. -
-
 <b>Built with</b>
 - [Mysql](https://www.mysql.com/products/workbench)
 
